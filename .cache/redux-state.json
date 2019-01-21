@@ -1,0 +1,3972 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/gracescheibe/git/dangers-of-spear-phishing/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "39455cf9eedb916b44b3d1a002ab8a6f",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "9fc1825fb901c08cdffd51e3e22f79bb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e8972fe48221276c2ac11a9a4b71e889",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "10185d23f3a95262ac18da47ff6134db",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "9cb6fb1242e38f469d8bc91a481c7ae2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "66cfbcfbdb245f042b7d122ecb7ef2dd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "6b5b50075fd927820098eb977ffcfac1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "77ed16986e8c5fbf9b7f9d3dfa3a0b2c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d8f4bf2b-73c7-5c69-93d1-79ac2ac7c2e8": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-sass",
+      "id": "d8f4bf2b-73c7-5c69-93d1-79ac2ac7c2e8",
+      "name": "gatsby-plugin-sass",
+      "version": "2.0.7",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "2.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sass",
+          "scss"
+        ],
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^7.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.9.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "284a0b168edbaecbd2775d6265d30b83",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "380d875a-db44-530c-944e-982bfba4c216": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-source-filesystem",
+      "id": "380d875a-db44-530c-944e-982bfba4c216",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.16",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/assets/img",
+        "name": "uploads"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.16",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a3d93c741cdb001bacc9f27b342a4571",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "cca2089f-f8cd-5f91-8b96-151c474bd5fd": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-source-filesystem",
+      "id": "cca2089f-f8cd-5f91-8b96-151c474bd5fd",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.16",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages",
+        "name": "pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.16",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "87c75b51f25d7d55ea8264bb194812a5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7ed4ef2d-51f4-5ab3-8a20-87d86e28008d": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-sitemap",
+      "id": "7ed4ef2d-51f4-5ab3-8a20-87d86e28008d",
+      "name": "gatsby-plugin-sitemap",
+      "version": "2.0.4",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-sitemap",
+      "packageJson": {
+        "name": "gatsby-plugin-sitemap",
+        "description": "Gatsby plugin that automatically creates a sitemap for your site",
+        "version": "2.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "minimatch",
+            "version": "^3.0.4"
+          },
+          {
+            "name": "pify",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sitemap",
+            "version": "^1.12.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "254a5662fabcd73b5232ff8f178ac955",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f63a17cc-cb4b-5f1d-bbd4-638644441f0d": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-source-filesystem",
+      "id": "f63a17cc-cb4b-5f1d-bbd4-638644441f0d",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.16",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/assets/img",
+        "name": "images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.16",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "db898db7ae25671c1ae808e4ae184b4f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.17",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreInit"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.17",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "9a7fa813a976adcdbe870ca8f02e8dc9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.10",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "78288074150f7a0d57b976425ae2245a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "41547d1d-a170-5434-b6cd-f6a13da8697b": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-transformer-remark",
+      "id": "41547d1d-a170-5434-b6cd-f6a13da8697b",
+      "name": "gatsby-transformer-remark",
+      "version": "2.2.0",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-remark-relative-images",
+            "id": "8725fafd-5e32-5cbd-9f30-0c2b80a5846d",
+            "name": "gatsby-remark-relative-images",
+            "version": "0.2.1",
+            "pluginOptions": {
+              "plugins": [],
+              "name": "uploads"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-remark-relative-images"
+          },
+          {
+            "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-remark-images",
+            "id": "2d241c37-172f-570f-be71-e47d0e016c38",
+            "name": "gatsby-remark-images",
+            "version": "3.0.1",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 2048,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "showCaptions": false,
+              "pathPrefix": "",
+              "withWebp": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [
+              "onRouteUpdate"
+            ],
+            "ssrAPIs": [],
+            "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-remark-images"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.2.0",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.88"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "df2d98f200d91d9358188b0399ea9c51",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "8725fafd-5e32-5cbd-9f30-0c2b80a5846d": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-remark-relative-images",
+      "id": "8725fafd-5e32-5cbd-9f30-0c2b80a5846d",
+      "name": "gatsby-remark-relative-images",
+      "version": "0.2.1",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "uploads"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-remark-relative-images",
+      "packageJson": {
+        "name": "gatsby-remark-relative-images",
+        "description": "Convert image src(s) in markdown to be relative to their node's parent directory. This will help gatsby-remark-images match images outside the node folder. For example, use with NetlifyCMS.",
+        "version": "0.2.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "relative",
+          "netlifycms",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Daniel Mahon",
+          "email": "daniel@mahonstudios.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-polyfill",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "1.0.0-rc.2"
+          },
+          {
+            "name": "deep-map",
+            "version": "1.5.0"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "4.17.5"
+          },
+          {
+            "name": "slash",
+            "version": "2.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "1.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "7.0.0-beta.44"
+          },
+          {
+            "name": "@babel/core",
+            "version": "7.0.0-beta.44"
+          },
+          {
+            "name": "@babel/preset-env",
+            "version": "7.0.0-beta.44"
+          },
+          {
+            "name": "cross-env",
+            "version": "5.1.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "34cf297bf9b7f703e03226ca1a5bb450",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "2d241c37-172f-570f-be71-e47d0e016c38": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-remark-images",
+      "id": "2d241c37-172f-570f-be71-e47d0e016c38",
+      "name": "gatsby-remark-images",
+      "version": "3.0.1",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 2048,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "linkImagesToOriginal": true,
+        "showCaptions": false,
+        "pathPrefix": "",
+        "withWebp": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "3.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit-parents",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.5"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8289b66458cfec59ca3988568cd22f12",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9a3ddc18-fe74-59ed-ab88-c0a6c2994eee": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-layout",
+      "id": "9a3ddc18-fe74-59ed-ab88-c0a6c2994eee",
+      "name": "gatsby-plugin-layout",
+      "version": "1.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreInit",
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [
+        "wrapPageElement"
+      ],
+      "ssrAPIs": [
+        "wrapPageElement"
+      ],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-layout",
+      "packageJson": {
+        "name": "gatsby-plugin-layout",
+        "description": "Reimplements the behavior of layout components in gatsby@1, which was removed in version 2.",
+        "version": "1.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "4e17254ddd54e3f79507b5d0b7d8df8a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "abe622f3-c463-50b1-ae64-a067f671a225": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-netlify-cms",
+      "id": "abe622f3-c463-50b1-ae64-a067f671a225",
+      "name": "gatsby-plugin-netlify-cms",
+      "version": "3.0.9",
+      "pluginOptions": {
+        "plugins": [],
+        "modulePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/cms/cms.js",
+        "enableIdentityWidget": true,
+        "htmlTitle": "TLCB Content Manager"
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [
+        "onInitialClientRender"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-netlify-cms",
+      "packageJson": {
+        "name": "gatsby-plugin-netlify-cms",
+        "description": "A Gatsby plugin which generates the Netlify CMS single page app",
+        "version": "3.0.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "netlify",
+          "netlify-cms",
+          "cms"
+        ],
+        "author": {
+          "name": "Shawn Erquhart",
+          "email": "shawn@erquh.art"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "friendly-errors-webpack-plugin",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "html-webpack-exclude-assets-plugin",
+            "version": "^0.0.7"
+          },
+          {
+            "name": "html-webpack-plugin",
+            "version": "^3.2.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-css-extract-plugin",
+            "version": "^0.4.1"
+          },
+          {
+            "name": "netlify-identity-widget",
+            "version": "^1.4.11"
+          },
+          {
+            "name": "webpack",
+            "version": "^4.16.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "react",
+            "version": "^16.4.1"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.4.1"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0-beta.29"
+          },
+          {
+            "name": "netlify-cms",
+            "version": "^2.0.6"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "186ac96c118df7d608ceb458ba4a9559",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "317d14ec-af16-5be0-a92b-8a94ce1677dc": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-nprogress",
+      "id": "317d14ec-af16-5be0-a92b-8a94ce1677dc",
+      "name": "gatsby-plugin-nprogress",
+      "version": "2.0.7",
+      "pluginOptions": {
+        "plugins": [],
+        "color": "#00d1b2",
+        "showSpinner": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry",
+        "onRouteUpdateDelayed",
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-nprogress",
+      "packageJson": {
+        "name": "gatsby-plugin-nprogress",
+        "description": "Shows page loading indicator when loading page resources is delayed",
+        "version": "2.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "nprogress",
+            "version": "^0.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a26c3e1ec3ada9fc2bec1b5df8ceb174",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "ac1c3ffd-077c-5bfc-b5ac-8618ffbda5da": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-google-tagmanager",
+      "id": "ac1c3ffd-077c-5bfc-b5ac-8618ffbda5da",
+      "name": "gatsby-plugin-google-tagmanager",
+      "version": "2.0.7",
+      "pluginOptions": {
+        "plugins": [],
+        "id": "",
+        "includeInDevelopment": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-google-tagmanager",
+      "packageJson": {
+        "name": "gatsby-plugin-google-tagmanager",
+        "description": "Gatsby plugin to add google tagmanager onto a site",
+        "version": "2.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics",
+          "google tagmanager"
+        ],
+        "author": {
+          "name": "Thijs Koerselman",
+          "email": "thijs@vauxlab.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "01316cf08651e6d1ce07774c9d12fe58",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "db69793c-ef5a-5e7f-95e0-3a52d2f510ae": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-manifest",
+      "id": "db69793c-ef5a-5e7f-95e0-3a52d2f510ae",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.13",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "Gatsby Starter Business",
+        "short_name": "Business",
+        "start_url": "/index.html",
+        "background_color": "#ffffff",
+        "theme_color": "#00d1b2",
+        "display": "standalone",
+        "icons": [
+          {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          },
+          {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.13",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "34b9e94017234a03c063e4ec801b14fe",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "63e5f7ff-e5f1-58f7-8e2c-55872ac42281": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-offline",
+      "id": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "name": "gatsby-plugin-offline",
+      "version": "2.0.21",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker",
+        "onServiceWorkerActive",
+        "onPostPrefetchPathname"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "2.0.21",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "idb-keyval",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "workbox-build",
+            "version": "^3.6.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">=2.0.53"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "7df416fb41fb3af5b542d98d902a5249",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "28b8e838-2b5f-576a-82ef-9644d4ff442f": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-feed",
+      "id": "28b8e838-2b5f-576a-82ef-9644d4ff442f",
+      "name": "gatsby-plugin-feed",
+      "version": "2.0.11",
+      "pluginOptions": {
+        "plugins": [],
+        "query": "\n                {\n                  site {\n                    siteMetadata {\n                      rssMetadata {\n                        site_url\n                        feed_url\n                        title\n                        description\n                        image_url\n                        author\n                        copyright\n                      }\n                    }\n                  }\n                }\n              ",
+        "feeds": [
+          {
+            "query": "\n                    {\n                      allMarkdownRemark(\n                        limit: 1000,\n                        sort: { order: DESC, fields: [frontmatter___date] },\n                      ) {\n                        edges {\n                          node {\n                            excerpt(pruneLength: 400)\n                            html\n                            id\n                            fields { slug }\n                            frontmatter {\n                              title\n                              templateKey\n                              cover\n                              date(formatString: \"MMMM DD, YYYY\")\n                              tags\n                            }\n                          }\n                        }\n                      }\n                    }\n                  ",
+            "output": "/rss.xml"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-feed",
+      "packageJson": {
+        "name": "gatsby-plugin-feed",
+        "description": "Creates an RSS feed for your Gatsby site.",
+        "version": "2.0.11",
+        "main": "index.js",
+        "keywords": [
+          "atom",
+          "feed",
+          "gatsby",
+          "gatsby-plugin",
+          "rss"
+        ],
+        "author": {
+          "name": "Nicholas Young",
+          "email": "nicholas@nicholaswyoung.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "lodash.merge",
+            "version": "^4.6.0"
+          },
+          {
+            "name": "mkdirp",
+            "version": "^0.5.1"
+          },
+          {
+            "name": "pify",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "rss",
+            "version": "^1.2.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b681e37c26b320d27bdfc4b77c2d66ce",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f1c7fc61-986b-565f-87d8-2b4b63f6ed8d": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/@gatsby-contrib/gatsby-plugin-elasticlunr-search",
+      "id": "f1c7fc61-986b-565f-87d8-2b4b63f6ed8d",
+      "name": "@gatsby-contrib/gatsby-plugin-elasticlunr-search",
+      "version": "2.1.1",
+      "pluginOptions": {
+        "plugins": [],
+        "fields": [
+          "title",
+          "tags"
+        ],
+        "resolvers": {
+          "MarkdownRemark": {}
+        }
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/@gatsby-contrib/gatsby-plugin-elasticlunr-search",
+      "packageJson": {
+        "name": "@gatsby-contrib/gatsby-plugin-elasticlunr-search",
+        "description": "Search for gatsby; implemented via elasticlunr.",
+        "version": "2.1.1",
+        "main": "n/a",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "lunr",
+          "search",
+          "elastic lunr"
+        ],
+        "author": {
+          "name": "Andrew Smith",
+          "email": "andrew@andrew.codes"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "elasticlunr",
+            "version": "^0.9.5"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.1.2"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.1.2"
+          },
+          {
+            "name": "@babel/plugin-proposal-object-rest-spread",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/preset-env",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "babel-eslint",
+            "version": "^10.0.1"
+          },
+          {
+            "name": "eslint",
+            "version": "^5.7.0"
+          },
+          {
+            "name": "eslint-config-google",
+            "version": "^0.11.0"
+          },
+          {
+            "name": "eslint-config-prettier",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.11.1"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.14.3"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a6d995ae02f6c27b1e3e728f200394ba",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "54e3ea36-236a-5532-9628-10debfd8525c": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-netlify",
+      "id": "54e3ea36-236a-5532-9628-10debfd8525c",
+      "name": "gatsby-plugin-netlify",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig",
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-netlify",
+      "packageJson": {
+        "name": "gatsby-plugin-netlify",
+        "description": "A Gatsby plugin which generates a _headers file for netlify",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "http/2-server-push",
+          "netlify"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "kebab-hash",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "webpack-assets-manifest",
+            "version": "^3.0.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e3fd0359eb8ee092d3118fb3572e47f7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "916c03baac5e3ae6b75e6f299603e9d7",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onCreateNode"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing",
+      "packageJson": {
+        "name": "gatsby-starter-business",
+        "description": "Gatsby Business Website Starter",
+        "version": "2.0.0",
+        "author": "Vaibhav Sharma",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@gatsby-contrib/gatsby-plugin-elasticlunr-search",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "bulma",
+            "version": "^0.7.2"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-paginate",
+            "version": "^1.0.16"
+          },
+          {
+            "name": "gatsby-plugin-feed",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-plugin-google-tagmanager",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-plugin-layout",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.10"
+          },
+          {
+            "name": "gatsby-plugin-netlify",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-netlify-cms",
+            "version": "^3.0.8"
+          },
+          {
+            "name": "gatsby-plugin-nprogress",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.17"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.2"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^2.0.4"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.13"
+          },
+          {
+            "name": "gatsby-plugin-sitemap",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "gatsby-remark-relative-images",
+            "version": "^0.2.1"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.1.13"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.8"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.11"
+          },
+          {
+            "name": "lodash-webpack-plugin",
+            "version": "^0.11.5"
+          },
+          {
+            "name": "netlify-cms",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.10.0"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.6.2"
+          },
+          {
+            "name": "react",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-disqus-comments",
+            "version": "^1.4.0"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.5.1"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-share",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "uglifyjs-webpack-plugin",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-eslint",
+            "version": "^8.2.2"
+          },
+          {
+            "name": "eslint",
+            "version": "^4.19.1"
+          },
+          {
+            "name": "eslint-config-standard",
+            "version": "^11.0.0"
+          },
+          {
+            "name": "eslint-config-standard-react",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "eslint-config-standard-trailing-commas",
+            "version": "^6.1.0"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.10.0"
+          },
+          {
+            "name": "eslint-plugin-node",
+            "version": "^6.0.1"
+          },
+          {
+            "name": "eslint-plugin-promise",
+            "version": "^3.7.0"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.7.0"
+          },
+          {
+            "name": "eslint-plugin-standard",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "remark-cli",
+            "version": "^6.0.1"
+          },
+          {
+            "name": "remark-preset-lint-recommended",
+            "version": "^3.0.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "9170ce3e7102214e7c31fc9eddc8f4e7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "91dbf758-bd12-517f-9ed7-93744825ead2": {
+      "resolve": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-page-creator",
+      "id": "91dbf758-bd12-517f-9ed7-93744825ead2",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/gracescheibe/git/dangers-of-spear-phishing/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "c199e960b7a385a686136e1edc3e5af5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Starter Business",
+        "siteUrl": "https://gatsby-starter-business.netlify.com",
+        "rssMetadata": {
+          "site_url": "https://gatsby-starter-business.netlify.com",
+          "feed_url": "https://gatsby-starter-business.netlify.com/rss.xml",
+          "title": "Gatsby Starter Business",
+          "description": "Leverage Gatsby Business Starter for your Business.",
+          "image_url": "https://gatsby-starter-business.netlify.com/icons/icon-512x512.png",
+          "author": "Vaibhav Sharma",
+          "copyright": "Copyright © Gatsby Starter Business 2018. All Rights Reserved."
+        }
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-01-21T19:15:47.211Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "05c1a69b8fe864c8cf5b406eff6191ec",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7d7d62f9-e907-5489-885f-df722d395110": {
+      "id": "7d7d62f9-e907-5489-885f-df722d395110",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "e05cfd2c13cd9945e98fff7ec0376434",
+        "type": "Directory",
+        "description": "Directory \"src/assets/img\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/assets/img",
+      "relativePath": "",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-01-21T19:12:27.432Z",
+      "accessTime": "2019-01-21T19:15:50.172Z",
+      "changeTime": "2019-01-21T19:12:58.623Z",
+      "birthTime": "2019-01-21T19:12:27.432Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/assets",
+      "base": "img",
+      "ext": "",
+      "name": "img",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621302,
+      "blocks": 0,
+      "atimeMs": 1548098150171.9106,
+      "mtimeMs": 1548097947432.018,
+      "ctimeMs": 1548097978622.8542,
+      "birthtimeMs": 1548097947431.9624,
+      "atime": "2019-01-21T19:15:50.172Z",
+      "mtime": "2019-01-21T19:12:27.432Z",
+      "ctime": "2019-01-21T19:12:58.623Z",
+      "birthtime": "2019-01-21T19:12:27.432Z"
+    },
+    "2bf689ff-3e42-585e-a8b5-859828608b72": {
+      "id": "2bf689ff-3e42-585e-a8b5-859828608b72",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "23af74d94a8981d45bb0013b754e17e3",
+        "type": "File",
+        "mediaType": "image/vnd.microsoft.icon",
+        "description": "File \"src/assets/img/favicon.ico\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "uploads",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/assets/img/favicon.ico",
+      "relativePath": "favicon.ico",
+      "extension": "ico",
+      "size": 3156,
+      "prettySize": "3.16 kB",
+      "modifiedTime": "2019-01-21T19:12:27.432Z",
+      "accessTime": "2019-01-21T19:13:48.117Z",
+      "changeTime": "2019-01-21T19:12:58.623Z",
+      "birthTime": "2019-01-21T19:12:27.432Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/assets/img",
+      "base": "favicon.ico",
+      "ext": ".ico",
+      "name": "favicon",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621303,
+      "blocks": 8,
+      "atimeMs": 1548098028117.1047,
+      "mtimeMs": 1548097947432.054,
+      "ctimeMs": 1548097978622.7478,
+      "birthtimeMs": 1548097947432.014,
+      "atime": "2019-01-21T19:13:48.117Z",
+      "mtime": "2019-01-21T19:12:27.432Z",
+      "ctime": "2019-01-21T19:12:58.623Z",
+      "birthtime": "2019-01-21T19:12:27.432Z"
+    },
+    "9fd55fed-de2b-5803-b606-e4db5791d925": {
+      "id": "9fd55fed-de2b-5803-b606-e4db5791d925",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "15721aa2465f1af099c3fc6fbdec343f",
+        "type": "Directory",
+        "description": "Directory \"src/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 288,
+      "prettySize": "288 B",
+      "modifiedTime": "2019-01-21T19:12:27.437Z",
+      "accessTime": "2019-01-21T19:15:50.144Z",
+      "changeTime": "2019-01-21T19:12:58.628Z",
+      "birthTime": "2019-01-21T19:12:27.436Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 9,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621306,
+      "blocks": 0,
+      "atimeMs": 1548098150144.1174,
+      "mtimeMs": 1548097947437.2998,
+      "ctimeMs": 1548097978627.807,
+      "birthtimeMs": 1548097947436.483,
+      "atime": "2019-01-21T19:15:50.144Z",
+      "mtime": "2019-01-21T19:12:27.437Z",
+      "ctime": "2019-01-21T19:12:58.628Z",
+      "birthtime": "2019-01-21T19:12:27.436Z"
+    },
+    "0f71c473-5866-5c95-9dde-614d8394e447": {
+      "id": "0f71c473-5866-5c95-9dde-614d8394e447",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "e29617aa6d0c0db12f239d84bae4af70",
+        "type": "Directory",
+        "description": "Directory \"src/pages/about\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/about",
+      "relativePath": "about",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-01-21T19:12:27.437Z",
+      "accessTime": "2019-01-21T19:15:50.146Z",
+      "changeTime": "2019-01-21T19:12:58.625Z",
+      "birthTime": "2019-01-21T19:12:27.437Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages",
+      "base": "about",
+      "ext": "",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621310,
+      "blocks": 0,
+      "atimeMs": 1548098150145.5232,
+      "mtimeMs": 1548097947436.7297,
+      "ctimeMs": 1548097978625.4102,
+      "birthtimeMs": 1548097947436.6858,
+      "atime": "2019-01-21T19:15:50.146Z",
+      "mtime": "2019-01-21T19:12:27.437Z",
+      "ctime": "2019-01-21T19:12:58.625Z",
+      "birthtime": "2019-01-21T19:12:27.437Z"
+    },
+    "2e889a12-ad03-5ee1-8fa1-2a52e0338e9a": {
+      "id": "2e889a12-ad03-5ee1-8fa1-2a52e0338e9a",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "451371cd5a631f264e5d11c2464be333",
+        "type": "Directory",
+        "description": "Directory \"src/pages/blog\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/blog",
+      "relativePath": "blog",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-01-21T19:12:27.437Z",
+      "accessTime": "2019-01-21T19:15:50.145Z",
+      "changeTime": "2019-01-21T19:12:58.626Z",
+      "birthTime": "2019-01-21T19:12:27.437Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages",
+      "base": "blog",
+      "ext": "",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621312,
+      "blocks": 0,
+      "atimeMs": 1548098150145.4746,
+      "mtimeMs": 1548097947436.8608,
+      "ctimeMs": 1548097978626.4983,
+      "birthtimeMs": 1548097947436.816,
+      "atime": "2019-01-21T19:15:50.145Z",
+      "mtime": "2019-01-21T19:12:27.437Z",
+      "ctime": "2019-01-21T19:12:58.626Z",
+      "birthtime": "2019-01-21T19:12:27.437Z"
+    },
+    "3fc5084b-0b4e-5fcc-95d3-7c9020a6fc7b": {
+      "id": "3fc5084b-0b4e-5fcc-95d3-7c9020a6fc7b",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "7594cd24ab0dccba5f531e01259095d9",
+        "type": "Directory",
+        "description": "Directory \"src/pages/contact\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/contact",
+      "relativePath": "contact",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-01-21T19:12:27.437Z",
+      "accessTime": "2019-01-21T19:15:50.146Z",
+      "changeTime": "2019-01-21T19:12:58.624Z",
+      "birthTime": "2019-01-21T19:12:27.437Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages",
+      "base": "contact",
+      "ext": "",
+      "name": "contact",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621307,
+      "blocks": 0,
+      "atimeMs": 1548098150145.5122,
+      "mtimeMs": 1548097947437.004,
+      "ctimeMs": 1548097978624.3875,
+      "birthtimeMs": 1548097947436.959,
+      "atime": "2019-01-21T19:15:50.146Z",
+      "mtime": "2019-01-21T19:12:27.437Z",
+      "ctime": "2019-01-21T19:12:58.624Z",
+      "birthtime": "2019-01-21T19:12:27.437Z"
+    },
+    "4bb2938a-e8ca-5b04-83bb-28f3933fe3be": {
+      "id": "4bb2938a-e8ca-5b04-83bb-28f3933fe3be",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "c32bde87aa2559310c970dc2f6b5dacc",
+        "type": "Directory",
+        "description": "Directory \"src/pages/pricing\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/pricing",
+      "relativePath": "pricing",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-01-21T19:12:27.437Z",
+      "accessTime": "2019-01-21T19:15:50.145Z",
+      "changeTime": "2019-01-21T19:12:58.628Z",
+      "birthTime": "2019-01-21T19:12:27.437Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages",
+      "base": "pricing",
+      "ext": "",
+      "name": "pricing",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621317,
+      "blocks": 0,
+      "atimeMs": 1548098150145.486,
+      "mtimeMs": 1548097947437.2256,
+      "ctimeMs": 1548097978627.7583,
+      "birthtimeMs": 1548097947437.1812,
+      "atime": "2019-01-21T19:15:50.145Z",
+      "mtime": "2019-01-21T19:12:27.437Z",
+      "ctime": "2019-01-21T19:12:58.628Z",
+      "birthtime": "2019-01-21T19:12:27.437Z"
+    },
+    "30b42375-a632-565e-b6e9-1dd70d17f3f1": {
+      "id": "30b42375-a632-565e-b6e9-1dd70d17f3f1",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "bf7805525ad64cd0d41aa64838030958",
+        "type": "Directory",
+        "description": "Directory \"src/pages/tags\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/tags",
+      "relativePath": "tags",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-01-21T19:12:27.437Z",
+      "accessTime": "2019-01-21T19:15:50.146Z",
+      "changeTime": "2019-01-21T19:12:58.627Z",
+      "birthTime": "2019-01-21T19:12:27.437Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages",
+      "base": "tags",
+      "ext": "",
+      "name": "tags",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621314,
+      "blocks": 0,
+      "atimeMs": 1548098150145.5935,
+      "mtimeMs": 1548097947437.3687,
+      "ctimeMs": 1548097978627.024,
+      "birthtimeMs": 1548097947437.295,
+      "atime": "2019-01-21T19:15:50.146Z",
+      "mtime": "2019-01-21T19:12:27.437Z",
+      "ctime": "2019-01-21T19:12:58.627Z",
+      "birthtime": "2019-01-21T19:12:27.437Z"
+    },
+    "aff5f094-dd6a-5a02-b8a9-5c53f0e65b61": {
+      "id": "aff5f094-dd6a-5a02-b8a9-5c53f0e65b61",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "580ccfb79179b3b12df39bb5c4b62568",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 784,
+      "prettySize": "784 B",
+      "modifiedTime": "2019-01-21T19:12:27.437Z",
+      "accessTime": "2019-01-21T19:13:48.118Z",
+      "changeTime": "2019-01-21T19:12:58.625Z",
+      "birthTime": "2019-01-21T19:12:27.437Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621309,
+      "blocks": 8,
+      "atimeMs": 1548098028118.271,
+      "mtimeMs": 1548097947436.6355,
+      "ctimeMs": 1548097978624.8252,
+      "birthtimeMs": 1548097947436.5386,
+      "atime": "2019-01-21T19:13:48.118Z",
+      "mtime": "2019-01-21T19:12:27.437Z",
+      "ctime": "2019-01-21T19:12:58.625Z",
+      "birthtime": "2019-01-21T19:12:27.437Z"
+    },
+    "3ba55aae-f9f8-548e-98d2-2b1af67bb983": {
+      "id": "3ba55aae-f9f8-548e-98d2-2b1af67bb983",
+      "children": [
+        "a13181c5-6338-540d-af59-35fb3ef67956"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "7500c43c85589c4e27b974fb170fc1c1",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/index.md",
+      "relativePath": "index.md",
+      "extension": "md",
+      "size": 4152,
+      "prettySize": "4.15 kB",
+      "modifiedTime": "2019-01-21T19:12:27.437Z",
+      "accessTime": "2019-01-21T19:13:48.118Z",
+      "changeTime": "2019-01-21T19:12:58.627Z",
+      "birthTime": "2019-01-21T19:12:27.437Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621316,
+      "blocks": 16,
+      "atimeMs": 1548098028118.418,
+      "mtimeMs": 1548097947437.136,
+      "ctimeMs": 1548097978627.3157,
+      "birthtimeMs": 1548097947437.0845,
+      "atime": "2019-01-21T19:13:48.118Z",
+      "mtime": "2019-01-21T19:12:27.437Z",
+      "ctime": "2019-01-21T19:12:58.627Z",
+      "birthtime": "2019-01-21T19:12:27.437Z"
+    },
+    "3b3a3d76-89f7-506c-9c3e-7e7166075662": {
+      "id": "3b3a3d76-89f7-506c-9c3e-7e7166075662",
+      "children": [
+        "469a0520-549e-5355-9291-daed3e5f7553"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "bbff8f26c9fd68018ac9a2414cc97c76",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog/lorem-ipsum-dolor-situm.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/blog/lorem-ipsum-dolor-situm.md",
+      "relativePath": "blog/lorem-ipsum-dolor-situm.md",
+      "extension": "md",
+      "size": 1838,
+      "prettySize": "1.84 kB",
+      "modifiedTime": "2019-01-21T19:12:27.437Z",
+      "accessTime": "2019-01-21T19:13:48.118Z",
+      "changeTime": "2019-01-21T19:12:58.626Z",
+      "birthTime": "2019-01-21T19:12:27.437Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/blog",
+      "base": "lorem-ipsum-dolor-situm.md",
+      "ext": ".md",
+      "name": "lorem-ipsum-dolor-situm",
+      "relativeDirectory": "blog",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621313,
+      "blocks": 8,
+      "atimeMs": 1548098028118.3489,
+      "mtimeMs": 1548097947436.9128,
+      "ctimeMs": 1548097978626.4365,
+      "birthtimeMs": 1548097947436.8564,
+      "atime": "2019-01-21T19:13:48.118Z",
+      "mtime": "2019-01-21T19:12:27.437Z",
+      "ctime": "2019-01-21T19:12:58.626Z",
+      "birthtime": "2019-01-21T19:12:27.437Z"
+    },
+    "359c0d37-1091-56d1-83b6-462777184815": {
+      "id": "359c0d37-1091-56d1-83b6-462777184815",
+      "children": [
+        "6e7cc5ab-9eb3-52cf-bca4-c1eb643e544a"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "3339e031f77e82e7fc32f444f3a95ce9",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/pricing/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/pricing/index.md",
+      "relativePath": "pricing/index.md",
+      "extension": "md",
+      "size": 1506,
+      "prettySize": "1.51 kB",
+      "modifiedTime": "2019-01-21T19:12:27.437Z",
+      "accessTime": "2019-01-21T19:13:48.118Z",
+      "changeTime": "2019-01-21T19:12:58.628Z",
+      "birthTime": "2019-01-21T19:12:27.437Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/pricing",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "pricing",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621318,
+      "blocks": 8,
+      "atimeMs": 1548098028118.4636,
+      "mtimeMs": 1548097947437.2512,
+      "ctimeMs": 1548097978627.7092,
+      "birthtimeMs": 1548097947437.221,
+      "atime": "2019-01-21T19:13:48.118Z",
+      "mtime": "2019-01-21T19:12:27.437Z",
+      "ctime": "2019-01-21T19:12:58.628Z",
+      "birthtime": "2019-01-21T19:12:27.437Z"
+    },
+    "d6a3c36c-f217-5bb1-b2a7-0e30ed0405e3": {
+      "id": "d6a3c36c-f217-5bb1-b2a7-0e30ed0405e3",
+      "children": [
+        "b3782306-fc45-57c3-a642-6eb063e7f816"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "2476f857920063b4a892571d184a0b24",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/contact/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/contact/index.md",
+      "relativePath": "contact/index.md",
+      "extension": "md",
+      "size": 877,
+      "prettySize": "877 B",
+      "modifiedTime": "2019-01-21T19:12:27.437Z",
+      "accessTime": "2019-01-21T19:13:48.118Z",
+      "changeTime": "2019-01-21T19:12:58.624Z",
+      "birthTime": "2019-01-21T19:12:27.437Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/contact",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "contact",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621308,
+      "blocks": 8,
+      "atimeMs": 1548098028118.3887,
+      "mtimeMs": 1548097947437.0393,
+      "ctimeMs": 1548097978624.3354,
+      "birthtimeMs": 1548097947436.9995,
+      "atime": "2019-01-21T19:13:48.118Z",
+      "mtime": "2019-01-21T19:12:27.437Z",
+      "ctime": "2019-01-21T19:12:58.624Z",
+      "birthtime": "2019-01-21T19:12:27.437Z"
+    },
+    "7f27c89f-8fe3-58a1-86e3-a654559567d5": {
+      "id": "7f27c89f-8fe3-58a1-86e3-a654559567d5",
+      "children": [
+        "91e841fa-39b6-53dc-9bff-dfc4fe204a34"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "c931b780635629b436ef8bf40c4f48ee",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/about/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/about/index.md",
+      "relativePath": "about/index.md",
+      "extension": "md",
+      "size": 2111,
+      "prettySize": "2.11 kB",
+      "modifiedTime": "2019-01-21T19:12:27.437Z",
+      "accessTime": "2019-01-21T19:13:48.118Z",
+      "changeTime": "2019-01-21T19:12:58.625Z",
+      "birthTime": "2019-01-21T19:12:27.437Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/about",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "about",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621311,
+      "blocks": 8,
+      "atimeMs": 1548098028118.308,
+      "mtimeMs": 1548097947436.7705,
+      "ctimeMs": 1548097978625.3535,
+      "birthtimeMs": 1548097947436.725,
+      "atime": "2019-01-21T19:13:48.118Z",
+      "mtime": "2019-01-21T19:12:27.437Z",
+      "ctime": "2019-01-21T19:12:58.625Z",
+      "birthtime": "2019-01-21T19:12:27.437Z"
+    },
+    "69827126-c719-5a70-b54f-3904e8d1e607": {
+      "id": "69827126-c719-5a70-b54f-3904e8d1e607",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f5611e095a37f4c4162c24d8c1a8f552",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/tags/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/tags/index.js",
+      "relativePath": "tags/index.js",
+      "extension": "js",
+      "size": 1642,
+      "prettySize": "1.64 kB",
+      "modifiedTime": "2019-01-21T19:12:27.437Z",
+      "accessTime": "2019-01-21T19:13:48.119Z",
+      "changeTime": "2019-01-21T19:12:58.627Z",
+      "birthTime": "2019-01-21T19:12:27.437Z",
+      "root": "/",
+      "dir": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/tags",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "tags",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7621315,
+      "blocks": 8,
+      "atimeMs": 1548098028118.5024,
+      "mtimeMs": 1548097947437.4355,
+      "ctimeMs": 1548097978626.947,
+      "birthtimeMs": 1548097947437.3623,
+      "atime": "2019-01-21T19:13:48.119Z",
+      "mtime": "2019-01-21T19:12:27.437Z",
+      "ctime": "2019-01-21T19:12:58.627Z",
+      "birthtime": "2019-01-21T19:12:27.437Z"
+    },
+    "a13181c5-6338-540d-af59-35fb3ef67956": {
+      "id": "a13181c5-6338-540d-af59-35fb3ef67956",
+      "children": [],
+      "parent": "3ba55aae-f9f8-548e-98d2-2b1af67bb983",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "5f9871876c0336dd26f177ef0476426a",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Gatsby Starter Business",
+        "templateKey": "home-page",
+        "meta_title": "Home | Gatsby Starter Business",
+        "meta_description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
+        "heading": "Lorem ipsum dolor sit amet",
+        "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+        "offerings": {
+          "blurbs": [
+            {
+              "image": "/img/coffee.png",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus  sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem  molestie sapien ornare cursus. Praesent eget volutpat est. Proin at  sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae tincidunt ut,  scelerisque eu sem. Etiam porttitor elit eget mi luctus, vitae blandit enim pretium.  Aenean nec hendrerit leo, a bibendum magna. In hac habitasse platea dictumst.  Suspendisse sapien magna, vestibulum non vehicula id, pellentesque in ante. Nullam  sed auctor tellus. Sed ipsum sem, dapibus nec eros in, feugiat sagittis mi.  Nullam et dui interdum, varius nibh eu, efficitur metus.\n"
+            },
+            {
+              "image": "/img/coffee-gear.png",
+              "text": "Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi. Nam  ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque luctus  neque id mauris accumsan, nec imperdiet justo eleifend. Nulla viverra, ipsum  sit amet interdum pharetra, felis lorem sollicitudin felis, vehicula finibus  enim nunc facilisis sapien. Donec nulla nisi, dictum quis nibh et, euismod  semper eros. Praesent nunc tortor, consequat eu justo ac, dictum viverra enim.  Etiam sed dui dapibus mauris congue facilisis. Nulla convallis, lectus vel  vehicula interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor.  Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.\n"
+            },
+            {
+              "image": "/img/tutorials.png",
+              "text": "Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus vitae sollicitudin  pharetra, ipsum augue tristique urna, in rhoncus quam tortor eget sem. Maecenas eu  pharetra orci, ut malesuada nisl. Aliquam erat volutpat. Curabitur egestas eros tincidunt,  scelerisque lectus ac, congue turpis. Fusce egestas sit amet elit et fringilla. Aliquam  erat volutpat. Vivamus ultrices venenatis maximus. Donec volutpat vitae quam at fringilla.  Sed luctus lacus vel tempus posuere. Ut suscipit auctor tortor. Phasellus leo dui, elementum  non sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet porttitor vehicula,  quam augue pretium erat, at commodo nisl tellus non risus.\n"
+            },
+            {
+              "image": "/img/meeting-space.png",
+              "text": "Vestibulum libero lectus, dignissim eget magna sit amet, malesuada tincidunt mi. Vivamus  sed erat iaculis mauris efficitur vehicula. Aliquam sed urna at tellus ullamcorper  venenatis molestie ut mi. Duis vel libero ac lectus cursus tempus. Nullam in dictum felis.  Nam sed laoreet turpis. Sed pretium urna consequat lorem tincidunt, ac scelerisque nisi  sodales. Cras tristique laoreet tempor. Mauris vitae dolor eu mauris malesuada cursus.  Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus. Suspendisse potenti.  In tempor, massa quis euismod convallis, felis elit sodales urna, at aliquet mi elit auctor  risus.\n"
+            }
+          ]
+        },
+        "testimonials": [
+          {
+            "author": "Vaibhav Sharma",
+            "quote": "Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium.  Sed quis egestas libero. Vestibulum nec venenatis ligula. "
+          },
+          {
+            "author": "Subarashi San",
+            "quote": "Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/index.md",
+      "fields": {
+        "slug": "/"
+      }
+    },
+    "469a0520-549e-5355-9291-daed3e5f7553": {
+      "id": "469a0520-549e-5355-9291-daed3e5f7553",
+      "children": [],
+      "parent": "3b3a3d76-89f7-506c-9c3e-7e7166075662",
+      "internal": {
+        "content": "\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.\n\n## Most Amazing Blogging Experience.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.\n\n> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.\n\nEtiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.\n\nVivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "8c04c317c9980febd015ece2e9433593",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Lorem Ipsum Dolor Situm",
+        "templateKey": "article-page",
+        "slug": "lorem-ipsum-dolor-situm",
+        "date": "2018-03-29T03:55:49.370Z",
+        "cover": "/img/products-grid3.jpg",
+        "meta_title": "Lorem Ipsum Dolor Situm",
+        "meta_description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
+        "tags": [
+          "lorem",
+          "ipsum"
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.\n\n## Most Amazing Blogging Experience.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.\n\n> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.\n\nEtiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.\n\nVivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.\n",
+      "fileAbsolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/blog/lorem-ipsum-dolor-situm.md",
+      "fields": {
+        "slug": "/blog/lorem-ipsum-dolor-situm/"
+      }
+    },
+    "6e7cc5ab-9eb3-52cf-bca4-c1eb643e544a": {
+      "id": "6e7cc5ab-9eb3-52cf-bca4-c1eb643e544a",
+      "children": [],
+      "parent": "359c0d37-1091-56d1-83b6-462777184815",
+      "internal": {
+        "content": "\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "327a90caa3828227b445f04f030e9dd8",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Pricing",
+        "templateKey": "pricing-page",
+        "meta_title": "Pricing | Gatsby Starter Business",
+        "meta_description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
+        "pricing": {
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta justo justo,  non semper odio cursus in. Curabitur ligula tortor, tristique non odio nec, imperdiet  mattis leo. Vivamus aliquam rhoncus tortor vitae convallis. Aliquam non dui nibh. Nam  a velit at enim sagittis pellentesque.",
+          "heading": "Monthly subscriptions",
+          "plans": [
+            {
+              "description": "Nulla faucibus, leo a condimentum aliquam, libero leo vehicula arcu",
+              "items": [
+                "Lorem ipsum dolor sit amet",
+                "consectetur adipiscing elit",
+                "Nunc finibus sem a sem ultrices"
+              ],
+              "plan": "Pro",
+              "price": "50"
+            },
+            {
+              "description": "Mauris vitae dolor eu mauris malesuada cursus.",
+              "items": [
+                "eget sagittis magna tempor",
+                "Quisque pulvinar lorem molestie",
+                "Proin at sagittis ex"
+              ],
+              "plan": "Enterprise",
+              "price": "80"
+            },
+            {
+              "description": "Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus.",
+              "items": [
+                "Pellentesque luctus neque id mauris accumsan",
+                "nec imperdiet justo eleifend",
+                "Sed eget ornare orci"
+              ],
+              "plan": "Custom",
+              "price": "??"
+            }
+          ]
+        }
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n",
+      "fileAbsolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/pricing/index.md",
+      "fields": {
+        "slug": "/pricing/"
+      }
+    },
+    "b3782306-fc45-57c3-a642-6eb063e7f816": {
+      "id": "b3782306-fc45-57c3-a642-6eb063e7f816",
+      "children": [],
+      "parent": "d6a3c36c-f217-5bb1-b2a7-0e30ed0405e3",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "afd0c2b90e9e7ce4eaf490ae00883818",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Contact Us",
+        "templateKey": "contact-page",
+        "subtitle": "We'd Love To Help You, Feel Free To Drop A Mail",
+        "meta_title": "Contact Us | Gatsby Starter Business",
+        "meta_description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
+        "contacts": [
+          {
+            "email": "support@lorem.com",
+            "description": "Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium.  Sed quis egestas libero. Vestibulum nec venenatis ligula. "
+          },
+          {
+            "email": "contact@lorem.com",
+            "description": "Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/contact/index.md",
+      "fields": {
+        "slug": "/contact/"
+      }
+    },
+    "91e841fa-39b6-53dc-9bff-dfc4fe204a34": {
+      "id": "91e841fa-39b6-53dc-9bff-dfc4fe204a34",
+      "children": [],
+      "parent": "7f27c89f-8fe3-58a1-86e3-a654559567d5",
+      "internal": {
+        "content": "## Lorem ipsum dolor sit amet, consectetuer\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus \nmus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa \nquis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.\n\n##In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. \n\nNullam dictum felis eu pede mollis \npretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. \nAenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra \nquis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. \nEtiam ultricies nisi vel augue.  Nam eget dui. *Etiam rhoncus*. Maecenas \ntempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. \nNam quam nunc, blandit vel, luctus pulvinar\n\n###Curabitur ullamcorper ultricies nisi.\n\nDonec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. \nDuis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, \naugue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, \nmollis sed, nonummy id, metus. \n* Cras ultricies mi eu turpis hendrerit fringilla. \n* Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; \n* In ac dui quis mi consectetuer lacinia.\n\n**Etiam ultricies nisi vel augue!**\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "aede17cc0ccc464d325041deb1f348cb",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About Us",
+        "templateKey": "about-page",
+        "meta_title": "About Us | Gatsby Starter Business",
+        "meta_description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum."
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "## Lorem ipsum dolor sit amet, consectetuer\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus \nmus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa \nquis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.\n\n##In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. \n\nNullam dictum felis eu pede mollis \npretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. \nAenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra \nquis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. \nEtiam ultricies nisi vel augue.  Nam eget dui. *Etiam rhoncus*. Maecenas \ntempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. \nNam quam nunc, blandit vel, luctus pulvinar\n\n###Curabitur ullamcorper ultricies nisi.\n\nDonec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. \nDuis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, \naugue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, \nmollis sed, nonummy id, metus. \n* Cras ultricies mi eu turpis hendrerit fringilla. \n* Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; \n* In ac dui quis mi consectetuer lacinia.\n\n**Etiam ultricies nisi vel augue!**\n",
+      "fileAbsolutePath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/about/index.md",
+      "fields": {
+        "slug": "/about/"
+      }
+    },
+    "SearchIndex < Site": {
+      "id": "SearchIndex < Site",
+      "parent": "___SOURCE___",
+      "children": [],
+      "pages": [
+        "a13181c5-6338-540d-af59-35fb3ef67956",
+        "469a0520-549e-5355-9291-daed3e5f7553",
+        "6e7cc5ab-9eb3-52cf-bca4-c1eb643e544a",
+        "b3782306-fc45-57c3-a642-6eb063e7f816",
+        "91e841fa-39b6-53dc-9bff-dfc4fe204a34"
+      ],
+      "internal": {
+        "type": "SiteSearchIndex",
+        "content": "\"91e841fa-39b6-53dc-9bff-dfc4fe204a34\"",
+        "contentDigest": "c35cdbf82cad8f1de1fe9937fc87d326",
+        "owner": "@gatsby-contrib/gatsby-plugin-elasticlunr-search"
+      }
+    },
+    "SitePage /blog": {
+      "jsonName": "blog-c06",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog",
+      "component": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/blog.js",
+      "componentChunkName": "component---src-templates-blog-js",
+      "context": {
+        "group": [
+          {
+            "node": {
+              "excerpt": "",
+              "id": "a13181c5-6338-540d-af59-35fb3ef67956",
+              "fields": {
+                "slug": "/"
+              },
+              "frontmatter": {
+                "title": "Gatsby Starter Business",
+                "cover": null,
+                "tags": null,
+                "templateKey": "home-page",
+                "date": null
+              }
+            }
+          },
+          {
+            "node": {
+              "excerpt": "",
+              "id": "6e7cc5ab-9eb3-52cf-bca4-c1eb643e544a",
+              "fields": {
+                "slug": "/pricing/"
+              },
+              "frontmatter": {
+                "title": "Pricing",
+                "cover": null,
+                "tags": null,
+                "templateKey": "pricing-page",
+                "date": null
+              }
+            }
+          },
+          {
+            "node": {
+              "excerpt": "",
+              "id": "b3782306-fc45-57c3-a642-6eb063e7f816",
+              "fields": {
+                "slug": "/contact/"
+              },
+              "frontmatter": {
+                "title": "Contact Us",
+                "cover": null,
+                "tags": null,
+                "templateKey": "contact-page",
+                "date": null
+              }
+            }
+          },
+          {
+            "node": {
+              "excerpt": "Lorem ipsum dolor sit amet, consectetuer Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. \nAenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus \nmus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa \nquis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget…",
+              "id": "91e841fa-39b6-53dc-9bff-dfc4fe204a34",
+              "fields": {
+                "slug": "/about/"
+              },
+              "frontmatter": {
+                "title": "About Us",
+                "cover": null,
+                "tags": null,
+                "templateKey": "about-page",
+                "date": null
+              }
+            }
+          },
+          {
+            "node": {
+              "excerpt": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam…",
+              "id": "469a0520-549e-5355-9291-daed3e5f7553",
+              "fields": {
+                "slug": "/blog/lorem-ipsum-dolor-situm/"
+              },
+              "frontmatter": {
+                "title": "Lorem Ipsum Dolor Situm",
+                "cover": "/img/products-grid3.jpg",
+                "tags": [
+                  "lorem",
+                  "ipsum"
+                ],
+                "templateKey": "article-page",
+                "date": "March 29, 2018"
+              }
+            }
+          }
+        ],
+        "pathPrefix": "blog",
+        "first": true,
+        "last": true,
+        "index": 1,
+        "pageCount": 1,
+        "additionalContext": {}
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/blog.js",
+      "id": "SitePage /blog",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3a67047ad7c9083c9167ac245a0b0a5b",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/home-page.js",
+      "componentChunkName": "component---src-templates-home-page-js",
+      "context": {
+        "id": "a13181c5-6338-540d-af59-35fb3ef67956"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/home-page.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "acc82babc3d11fb8b5ab3d6817802de3",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /pricing/": {
+      "jsonName": "pricing-665",
+      "internalComponentName": "ComponentPricing",
+      "path": "/pricing/",
+      "component": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/pricing-page.js",
+      "componentChunkName": "component---src-templates-pricing-page-js",
+      "context": {
+        "id": "6e7cc5ab-9eb3-52cf-bca4-c1eb643e544a"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/pricing-page.js",
+      "id": "SitePage /pricing/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ecc6f7d05bc2189c2ab0c119671b9718",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "jsonName": "contact-26a",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/contact-page.js",
+      "componentChunkName": "component---src-templates-contact-page-js",
+      "context": {
+        "id": "b3782306-fc45-57c3-a642-6eb063e7f816"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/contact-page.js",
+      "id": "SitePage /contact/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "aefedda3d15786ca3bef075db2f12e11",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/about-page.js",
+      "componentChunkName": "component---src-templates-about-page-js",
+      "context": {
+        "id": "91e841fa-39b6-53dc-9bff-dfc4fe204a34"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/about-page.js",
+      "id": "SitePage /about/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4a8cc514a0109a5e76221bc0ed815d50",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/lorem-ipsum-dolor-situm/": {
+      "jsonName": "blog-lorem-ipsum-dolor-situm-ea6",
+      "internalComponentName": "ComponentBlogLoremIpsumDolorSitum",
+      "path": "/blog/lorem-ipsum-dolor-situm/",
+      "component": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/article-page.js",
+      "componentChunkName": "component---src-templates-article-page-js",
+      "context": {
+        "id": "469a0520-549e-5355-9291-daed3e5f7553"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/article-page.js",
+      "id": "SitePage /blog/lorem-ipsum-dolor-situm/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0712ebc96e90e5b6a642d722680eb5bd",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/lorem/": {
+      "jsonName": "tags-lorem-f18",
+      "internalComponentName": "ComponentTagsLorem",
+      "path": "/tags/lorem/",
+      "component": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "lorem"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/tags.js",
+      "id": "SitePage /tags/lorem/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "054f21e603aca8b8247d9823065f9729",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/ipsum/": {
+      "jsonName": "tags-ipsum-a5a",
+      "internalComponentName": "ComponentTagsIpsum",
+      "path": "/tags/ipsum/",
+      "component": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "ipsum"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/tags.js",
+      "id": "SitePage /tags/ipsum/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8df2027650e6ffd030a3b5abac7a6bea",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "91dbf758-bd12-517f-9ed7-93744825ead2",
+      "pluginCreatorId": "91dbf758-bd12-517f-9ed7-93744825ead2",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fd434058eba7f3a63038878ea5e3154a",
+        "description": "91dbf758-bd12-517f-9ed7-93744825ead2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/": {
+      "jsonName": "tags-275",
+      "internalComponentName": "ComponentTags",
+      "path": "/tags/",
+      "component": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/tags/index.js",
+      "componentChunkName": "component---src-pages-tags-index-js",
+      "context": {},
+      "pluginCreator___NODE": "91dbf758-bd12-517f-9ed7-93744825ead2",
+      "pluginCreatorId": "91dbf758-bd12-517f-9ed7-93744825ead2",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/tags/index.js",
+      "id": "SitePage /tags/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b495b7201285f42f9647c660c89224d8",
+        "description": "91dbf758-bd12-517f-9ed7-93744825ead2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fc8cfaff524e56caa33123f9c70828ea",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "33a3d744a6deb9c51cdb150e84cff35a"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "SearchIndex < Site": [
+        "sq--src-components-nav-bar-index-js"
+      ],
+      "Site": [
+        "/tags/",
+        "/tags/lorem/",
+        "/tags/ipsum/"
+      ],
+      "469a0520-549e-5355-9291-daed3e5f7553": [
+        "/blog/lorem-ipsum-dolor-situm/"
+      ],
+      "91e841fa-39b6-53dc-9bff-dfc4fe204a34": [
+        "/about/"
+      ],
+      "a13181c5-6338-540d-af59-35fb3ef67956": [
+        "/"
+      ],
+      "b3782306-fc45-57c3-a642-6eb063e7f816": [
+        "/contact/"
+      ],
+      "6e7cc5ab-9eb3-52cf-bca4-c1eb643e544a": [
+        "/pricing/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        null,
+        "/tags/",
+        "/tags/lorem/",
+        "/tags/ipsum/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "tags-275": "926/path---tags-275-fc0-z0q73cszbNJRKp2gweDmNUCGqA",
+    "blog-lorem-ipsum-dolor-situm-ea6": "565/path---blog-lorem-ipsum-dolor-situm-ea-6-c5a-QvdLDhPUcW2sR5OLU523okkgNc",
+    "about-f34": "204/path---about-f-34-4c2-Z3rDRmmF5ZrVLD0jB05O05ALK6w",
+    "sq--src-components-nav-bar-index-js": 1346230460,
+    "index": "532/path---index-6a9-Pm2YiUgPTjowOQZx2fgmYCnObVc",
+    "contact-26a": "738/path---contact-26-a-cd9-fYqhnXwnn6Zlv7RO6ZlM7LH7o",
+    "pricing-665": "729/path---pricing-665-bf7-bmR8ILxYlpDJePfORlu31mpSgs",
+    "tags-lorem-f18": "264/path---tags-lorem-f-18-0a1-Ho0RcsGmSybTOuwoGC5Rw5gu1MI",
+    "blog-c06": "601/path---blog-c-06-a65-RmuhqO499mA3zBIt9L2g6tetjow",
+    "tags-ipsum-a5a": "829/path---tags-ipsum-a-5-a-e02-Q0BmMNoWlb6B1mCBuumF6Bcq5k",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
+  },
+  "components": {
+    "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/blog.js": {
+      "query": "",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/blog.js"
+    },
+    "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/home-page.js": {
+      "query": "query IndexPage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    frontmatter {\n      title\n      meta_title\n      meta_description\n      heading\n      description\n      offerings {\n        blurbs {\n          image\n          text\n        }\n      }\n      testimonials {\n        author\n        quote\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/home-page.js"
+    },
+    "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/pricing-page.js": {
+      "query": "query PricingPage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    frontmatter {\n      title\n      meta_title\n      meta_description\n      pricing {\n        heading\n        description\n        plans {\n          description\n          items\n          plan\n          price\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/pricing-page.js"
+    },
+    "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/contact-page.js": {
+      "query": "query ContactPage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    frontmatter {\n      title\n      subtitle\n      meta_title\n      meta_description\n      heading\n      contacts {\n        email\n        description\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/contact-page.js"
+    },
+    "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/about-page.js": {
+      "query": "query AboutPage(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    html\n    frontmatter {\n      title\n      meta_title\n      meta_description\n    }\n  }\n}\n",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/about-page.js"
+    },
+    "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/article-page.js": {
+      "query": "query ArticleByID(\n  $id: String!\n) {\n  markdownRemark(id: {eq: $id}) {\n    id\n    html\n    fields {\n      slug\n    }\n    frontmatter {\n      date(formatString: \"MMMM DD, YYYY\")\n      title\n      cover\n      meta_title\n      meta_description\n      tags\n    }\n  }\n}\n",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/article-page.js"
+    },
+    "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/tags.js": {
+      "query": "query TagPage(\n  $tag: String\n) {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(limit: 1000, sort: {fields: [frontmatter___date], order: DESC}, filter: {frontmatter: {tags: {in: [$tag]}}}) {\n    totalCount\n    edges {\n      node {\n        fields {\n          slug\n        }\n        frontmatter {\n          title\n        }\n      }\n    }\n  }\n}\n",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/templates/tags.js"
+    },
+    "/Users/gracescheibe/git/dangers-of-spear-phishing/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/.cache/dev-404-page.js"
+    },
+    "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/404.js": {
+      "query": "",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/404.js"
+    },
+    "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/tags/index.js": {
+      "query": "query TagsQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(limit: 1000) {\n    group(field: frontmatter___tags) {\n      fieldValue\n      totalCount\n    }\n  }\n}\n",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/pages/tags/index.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-nav-bar-index-js": {
+      "name": "SearchIndexQuery",
+      "componentPath": "/Users/gracescheibe/git/dangers-of-spear-phishing/src/components/NavBar/index.js",
+      "id": "sq--src-components-nav-bar-index-js",
+      "jsonName": "sq--src-components-nav-bar-index-js",
+      "query": "query SearchIndexQuery {\n  siteSearchIndex {\n    index\n  }\n}\n",
+      "hash": 1346230460
+    }
+  }
+}
